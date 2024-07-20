@@ -1,6 +1,8 @@
 Hola
 aqui estamos practicando el uso del Git Hub y Git.
 
+Rutas para complementar el aprendizaje:
+
 buscar: https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 https://www.aluracursos.com/blog/html-y-sus-etiquetas
 [text](https://coolors.co/)
